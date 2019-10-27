@@ -2,29 +2,29 @@
 
 ## Ores
 
-Lithium ore
-Limestone
+* Lithium ore
+* Limestone
 
 ## Materials
 
-Lithium
-Limestone
-Cement
-Concrete
+* Lithium
+* Limestone
+* Cement
+* Concrete
 
 ## Liquids
 
-Cement
+* Cement
 
 ## Factories
 
-Limestone kiln
-Cement mixer
-Concrete mixer
+* Limestone
+* Cement mixer
+* Concrete mixer
 
 ## Power
 
-Upgraded lithium batteries
+* Upgraded lithium batteries
 
 ## Defense
 
