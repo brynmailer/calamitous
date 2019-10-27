@@ -1,6 +1,13 @@
 {
+<<<<<<< HEAD
   "name": "Calamatous",
   "author": "Anuke",
   "description": "A simple mod. Demonstrates how to make[accent] new ores[] and[orange] machines.[]",
   "version": 1.0
+=======
+  "name": "Calamitous",
+  "author": "Bryn Mailer",
+  "description": "A huge overhall mod for the strategy resource management game 'Mindustry'.",
+  "version": 0.1
+>>>>>>> 2e7b38bcb51fd11fed6db3c83d635496f9e61e53
 }
