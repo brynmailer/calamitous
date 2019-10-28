@@ -1,0 +1,8 @@
+{
+  "type": "material",
+  "name": "Steel",
+  "description": "A sturdy material made from forging iron with coal.",
+  "hardness": 0,
+  "cost": 2.0,
+  "color": "2c353a"
+}
